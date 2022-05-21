@@ -2,8 +2,8 @@
 const clientId = '5MFR2FIONG3CCN5IXQBUE3HFBKEECHZZ0Q1XNZVPZQEZMZDQ';
 const clientSecret = 'XVR2PAUVWZSPQY5RY0HZV54ZMBBXM2CWG4RKCGGQUT0JC0OU';
 const url = 'https://api.foursquare.com/v2/venues/explore?';
-var lat = 47.4175;
-var lon = 98.424;
+var lat = 17.4175;
+var lon = 78.424;
 // Page Elements
 const $submit = $('#button');
 const $container = $('.container');
